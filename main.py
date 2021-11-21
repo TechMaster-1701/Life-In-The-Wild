@@ -1,2 +1,4 @@
+import game_characters as characters
+
 if __name__ == "__main__":
-    return 0
+    return characters.JungleScene.Obstacle(TREE)
