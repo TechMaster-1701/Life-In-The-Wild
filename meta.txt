@@ -1,0 +1,9 @@
+Characters{
+  "Jonathan",[angry], "survival expert"
+  "Maria",[happy, trust], "jonathan's assistant"
+  "_charactername_", [], "first person"
+}
+Obstacles{
+  "Rock",
+  "Tree",
+}
